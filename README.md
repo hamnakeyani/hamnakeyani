@@ -6,7 +6,7 @@
 <a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
 
 
-- :man_teacher: I’m an Analyst at [CENNTRO](https://shmentor.hu](https://cenntro-europe.com/?gad_source=1&gclid=EAIaIQobChMItJfKx-qUgwMVV_RRCh22bwVOEAAYASAAEgLCW_D_BwE) 
+- :man_teacher: I’m an Analyst at [CENNTRO](https://cenntro-europe.com/?gad_source=1&gclid=EAIaIQobChMItJfKx-qUgwMVV_RRCh22bwVOEAAYASAAEgLCW_D_BwE) 
 - :man_teacher: I was an International Relations Expert from [Corvinus University](https://www.uni-corvinus.hu/post/landing-page/international-application-to-corvinus-university-of-budapest/international-relations/?lang=en)
 - :seedling: I’m currently learning more about Data Analysis and Project Management.
 - 🚀: I'm Currently working on creating Tableau Dashboards on sustainable BI approach to analyze impact of 2022 floods in Pakistan.
